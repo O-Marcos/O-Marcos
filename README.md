@@ -4,7 +4,7 @@
 
 - 🔭 Atualmente estou trabalhando em:  **Meu portfolio**
 
-- 🌱 Atualmente estou estudando:   **Análise de Dados e Machine Learning**
+- 🌱 Estou estudando no momento:   **Análise de Dados e Machine Learning**
 
 - 🤝 Estou procurando:   **Trabalho na àrea de Dados**
 

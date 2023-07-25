@@ -1,6 +1,6 @@
 <h2>Um Analista de Dados em desenvolvimento 😍</h2>
 
-<h3 align="left">Sobre mmim:</h3>
+<h3 align="left">Sobre mim:</h3>
 
 - 🔭 Atualmente estou trabalhando em:  **Meu portfolio**
 

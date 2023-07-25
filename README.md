@@ -10,7 +10,7 @@
 
 - 👨‍💻 Todos os meus projetos estão disponíveis:   **Aqui, Em Breve!**
 
-- 📄 Know about my experiences [http://bit.ly/portifoliomarcosv](http://bit.ly/portifoliomarcosv)
+- 📄 Conheça um pouco dos meus projetos [http://bit.ly/portifoliomarcosv](http://bit.ly/portifoliomarcosv)
 
 <h3 align="left">Connect with me in my LinkedIn:</h3>
 <p align="left">

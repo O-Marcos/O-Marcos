@@ -12,7 +12,7 @@
 
 - 📄 Conheça um pouco dos meus projetos [http://bit.ly/portifoliomarcosv](http://bit.ly/portifoliomarcosv)
 
-<h3 align="left">Connect with me in my LinkedIn:</h3>
+<h3 align="left">Conecte-se comigo em meu LinkedIn:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/marcos-vinicios/" target="blank"><img align="center" src="https://icons.iconarchive.com/icons/limav/flat-gradient-social/256/Linkedin-icon.png" alt="https://linkedin.com/in/marcos-vinicios/" width="30" height="30"/></a>
 </p>

@@ -1,4 +1,4 @@
-<h2>Um Analista de Dados em desenvolvimento 😍</h2>
+<h2>Analista de Dados</h2>
 
 <h3 align="left">Olá, conheça um pouco Sobre mim:</h3>
 

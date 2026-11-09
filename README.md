@@ -8,8 +8,11 @@
 
 - 🤝 Estou procurando:   **Trabalho na àrea de Dados**
 
+- Meu App ScanRef Otimize seu Inventário - [https://www.scanref.app]
+
 - 📄 Conheça um pouco dos meus projetos [http://bit.ly/portifoliomarcosv](http://bit.ly/portifoliomarcosv)
-- Me encontre no LinkedIn - [https://www.linkedin.com/in/marcos-vinícios/]
+
+
 
 <h3 align="left">Conecte-se comigo em meu LinkedIn:</h3>
 <p align="left">

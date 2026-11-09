@@ -4,13 +4,12 @@
 
 - 🔭 Atualmente estou trabalhando em:  **Meu portfolio**
 
-- 🌱 Estou estudando no momento:   **Análise de Dados e Machine Learning**
+- 🌱 Estou estudando no momento:   **Ciência de Dados - Estácio**
 
 - 🤝 Estou procurando:   **Trabalho na àrea de Dados**
 
-- 👨‍💻 Todos os meus projetos estão disponíveis:   **Aqui, Em Breve!**
-
 - 📄 Conheça um pouco dos meus projetos [http://bit.ly/portifoliomarcosv](http://bit.ly/portifoliomarcosv)
+- Me encontre no LinkedIn - [https://www.linkedin.com/in/marcos-vinícios/]
 
 <h3 align="left">Conecte-se comigo em meu LinkedIn:</h3>
 <p align="left">

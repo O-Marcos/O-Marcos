@@ -2,7 +2,7 @@
 
 <h3 align="left">Olá, conheça um pouco Sobre mim:</h3>
 
-- 🔭 Atualmente estou trabalhando em:  **Meu portfolio**
+- 🔭 Atualmente estou trabalhando como:  **Analista de BI**
 
 - 🌱 Estou estudando no momento:   **Ciência de Dados - Estácio**
 
